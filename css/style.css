@@ -121,7 +121,7 @@ a:visited {
 }
 .navbar-default.color-fill {
     background-color: #fff;
-    border-color: dark yellow;
+    border-color: transparent;
 }
 .btn-nav {
     background: dark yellow;
