@@ -116,15 +116,15 @@ a:visited {
     }
 }
 .navbar-default {
-    background-color: dark yellow;
-    border-color: dark yellow;
+    background-color: yellow;
+    border-color: yellow;
 }
 .navbar-default.color-fill {
     background-color: #fff;
-    border-color: dark yellow;
+    border-color: yellow;
 }
 .btn-nav {
-    background: dark yellow;
+    background: yellow;
     <!--transparent-->;
     border: none;
     padding: 15px;
@@ -149,14 +149,14 @@ a:visited {
     margin: 6px 0;
     width: 30px;
     height: 3px;
-    background-color: dark yellow;;
+    background-color: yellow;;
 }
 .icon-bar.inverted {
-    background-color: dark yellow;;
+    background-color: yellow;;
 }
 @media (max-width: 992px) {
     .icon-bar.inverted {
-        background-color: dark yellow;;
+        background-color: yellow;;
     }
 }
 .opaque {
