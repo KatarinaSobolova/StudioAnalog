@@ -475,8 +475,8 @@ a:visited {
     background-size: cover !important;
     <!--height: 100%;
     width: 100%;-->
-    left: 10%;
-    top: 10%;
+    left: 1%;
+    top: 0%;
     transition: all 0.3s ease 0s;
     
     z-index: 1;
