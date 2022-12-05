@@ -480,8 +480,8 @@ a:visited {
     transition: all 0.3s ease 0s;
     
     z-index: 1;
-    width: 300px;
-  height: 300px;
+    width: 500px;
+  height: 500px;
     
     
 }
