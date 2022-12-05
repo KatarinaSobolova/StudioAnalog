@@ -117,14 +117,14 @@ a:visited {
 }
 .navbar-default {
     background-color: transparent;
-    border-color: yellow;
+    border-color: dark yellow;
 }
 .navbar-default.color-fill {
     background-color: #fff;
-    border-color: yellow;
+    border-color: dark yellow;
 }
 .btn-nav {
-    background: yellow;
+    background: dark yellow;
     <!--transparent-->;
     border: none;
     padding: 15px;
