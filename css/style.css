@@ -116,7 +116,7 @@ a:visited {
     }
 }
 .navbar-default {
-    background-color: transparent;
+    background-color: dark yellow;
     border-color: transparent;
 }
 .navbar-default.color-fill {
