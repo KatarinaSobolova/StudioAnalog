@@ -475,20 +475,20 @@ a:visited {
     background-size: cover !important;
     <!--height: 100%;
     width: 100%;-->
-    left: 0%;
-    top: 0%;
+    left: 0;
+    top: 0;
     transition: all 0.3s ease 0s;
     
     z-index: 1;
     width: 500px;
-  height: 500px;
+    height: 500px;
     
     
 }
 .background-image {
     height:500px;
     width: 500px;
-    <!--object-fit: cover;-->
+    object-fit: cover;
 }
 .square-thumbs li {
     height: 285px;
@@ -525,9 +525,8 @@ a:visited {
     height: 100vh;
 }
 .item img {
-   <!-- width: 100%;
-    height: 100vh!important;-->
+    width: 100%;
+    height: 100vh!important;
     object-fit: cover;
-    height: 500px;
-    width: 500px;
+   
 }
