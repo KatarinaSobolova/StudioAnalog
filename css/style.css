@@ -149,10 +149,10 @@ a:visited {
     margin: 6px 0;
     width: 30px;
     height: 3px;
-    background-color: yellow;;
+    background-color: transparent;;
 }
 .icon-bar.inverted {
-    background-color: yellow;;
+    background-color: transparent;;
 }
 @media (max-width: 992px) {
     .icon-bar.inverted {
