@@ -88,8 +88,13 @@ a:visited {
 }
 .margin-top-45 {
     margin-top: 4.5em;
+   
+}
+
+.margin-top-46 {
+    margin-top: 4.5em;
     height: 300px;
-    width: 300px;
+    width: 200px;
 }
 
 /*---------- Navbar ----------*/
